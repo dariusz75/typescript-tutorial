@@ -1,3 +1,6 @@
+/// <reference path="person.ts" />
+/// <reference path="result.ts" />
+
 // starting a new game
 let startGame = () => {
 
